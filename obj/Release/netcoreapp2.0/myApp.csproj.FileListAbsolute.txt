@@ -1,0 +1,15 @@
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/Mono.Cecil.dll
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/myApp.deps.json
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/myApp.dll
+/Users/davidtorssell/workspace/dotnet/myApp/bin/Release/netcoreapp2.0/myApp.pdb
+/Users/davidtorssell/workspace/dotnet/myApp/obj/Release/netcoreapp2.0/myApp.csprojResolveAssemblyReference.cache
+/Users/davidtorssell/workspace/dotnet/myApp/obj/Release/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/davidtorssell/workspace/dotnet/myApp/obj/Release/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/davidtorssell/workspace/dotnet/myApp/obj/Release/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/davidtorssell/workspace/dotnet/myApp/obj/Release/netcoreapp2.0/myApp.dll
+/Users/davidtorssell/workspace/dotnet/myApp/obj/Release/netcoreapp2.0/myApp.pdb
